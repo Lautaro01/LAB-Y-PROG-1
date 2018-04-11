@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1491358751 source:c:\users\yoel\desktop\trabajo práctico número 1\funciones.c
+
+1491357927 source:c:\users\yoel\desktop\trabajo práctico número 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491357834 c:\users\yoel\desktop\trabajo práctico número 1\funciones.h
+
+1491358751 source:c:\users\yoel\desktop\trabajo practico de laboratorio y programacion 1\funciones.c
+
+1522886293 source:c:\users\yoel\desktop\trabajo practico de laboratorio y programacion 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491359839 c:\users\yoel\desktop\trabajo practico de laboratorio y programacion 1\funciones.h
+
